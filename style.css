@@ -1,0 +1,17 @@
+.container {
+	max-width: 1024px;
+	margin: 0 auto;
+}
+img {
+	float: right;
+	margin: 0 0 10px 10px; 
+	width: 150px;
+	height: 150px;
+	-o-object-fit: cover;
+	   object-fit: cover;
+	   -webkit-border-radius: 50%;
+	           border-radius: 50%;
+}
+body {
+	background-color: #ffffcc
+}
