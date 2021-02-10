@@ -1,5 +1,3 @@
-CV
-===
 
 1. **Name** - Vera, **surname** - Poleschuk.
 2. **Contacts:** *email* verapoles1@mail.ru, *viber* +375445100889.
