@@ -13,5 +13,6 @@ CV
 
     [https://1verapoles-songbird.netlify.app](https://1verapoles-songbird.netlify.app)
 
-6. **Education.** Higher education (Belarusian state economic university). Cources Belhard (HTML5, CSS3, PHP7, Javascript, jQuery, Adobe Photoshop).
-7. **English language skills.**  Speaking and writing in English - middle level.
+  **Education.** Higher education (Belarusian state economic university). Cources Belhard (HTML5, CSS3, PHP7, Javascript, jQuery, Adobe Photoshop).
+  
+  **English language skills.**  Speaking and writing in English - middle level.
